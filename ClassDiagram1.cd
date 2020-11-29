@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="teste2.QFactories.QDuploFactory">
+    <Position X="4.5" Y="12.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QFactories\QDuploFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.QFactories.QFactory">
+    <Position X="4.5" Y="15" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QFactories\QFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.QFactories.QSimplesFactory">
+    <Position X="1.25" Y="12.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QFactories\QSimplesFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.QFactories.QTriploFactory">
+    <Position X="7.75" Y="12.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QFactories\QTriploFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Entidades.Hospede">
+    <Position X="9.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAhAAAAAAAAAAIAABEAAAAAAAAAEAAcAEAA=</HashCode>
+      <FileName>Entidades\Hospede.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.Entidades.Quarto">
+    <Position X="4.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAEBEABAASABAAAwAEAAEAgAAAAAAAAAAAAAAAAMAAg=</HashCode>
+      <FileName>Entidades\Quarto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.Entidades.QuartoDuplo">
+    <Position X="4.75" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAgASAEAAAAAAQAAAAAAAAAAACAAIAAg=</HashCode>
+      <FileName>Entidades\QuartoDuplo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.Entidades.QuartoSimples">
+    <Position X="1.5" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAgASAEAAAAAAQAAAAAAAAAAACAAIAAg=</HashCode>
+      <FileName>Entidades\QuartoSimples.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste2.Entidades.QuartoTriplo">
+    <Position X="8" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAgASAEAAAAAAQAAAAAAAAAAACAAIAAg=</HashCode>
+      <FileName>Entidades\QuartoTriplo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Facade.Fachada">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAACACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade\Fachada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Program">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Strategy.CheckOut">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAIAAAACAAAAAAAEkAAAAIAA=</HashCode>
+      <FileName>Strategy\CheckOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Strategy.CheckIn">
+    <Position X="11.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Strategy\CheckIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pousada.Strategy.Relatorio">
+    <Position X="14.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Strategy\Relatorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="teste2.Strategy.IStrategy">
+    <Position X="13" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Strategy\IStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Pousada.Entidades.Enum.TipoEnum">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAkAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Enum\TipoEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
